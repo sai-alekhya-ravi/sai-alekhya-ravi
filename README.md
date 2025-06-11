@@ -9,15 +9,15 @@ My projects focus on **Android Development, Data Management, and AI concepts**. 
 
 ## 🛠️ Skills & Tools
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-Expert-orange?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=postgresql)
+### Languages
+![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java&style=flat)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&style=flat)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=postgresql&style=flat)
 
-**Frameworks/Tools**  
-![Android Studio](https://img.shields.io/badge/Android_Studio-Expert-3DDC84?style=flat&logo=android-studio)
-![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat&logo=firebase)
+### Frameworks/Tools
+![Android Studio](https://img.shields.io/badge/Android_Studio-Expert-3DDC84?logo=android-studio&style=flat)
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?logo=git&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?logo=firebase&style=flat)
 
 ---
 
