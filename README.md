@@ -36,6 +36,7 @@ My projects focus on **Android Development, Data Management, and AI concepts**. 
 
 ---
 
-## 📫 Let's Connect!  
-<img src="/assets/linkedin-badge.png" alt="LinkedIn" width="120" />
-<img src="/assets/email-badge.png" alt="Email" width="100" />
+## 📞 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-alekhya-ravi)  
+📧 [Email](mailto:rsalekhya05@gmail.com)  
