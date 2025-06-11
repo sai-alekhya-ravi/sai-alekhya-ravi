@@ -10,14 +10,14 @@ My projects focus on **Android Development, Data Management, and AI concepts**. 
 ## 🛠️ Skills & Tools
 
 **Languages**  
-![Java]
-![Python]
-![SQL]
+![Java](https://img.shields.io/badge/Java-Expert-orange?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=postgresql)
 
 **Frameworks/Tools**  
-![Android Studio]
-![Git]
-![Firebase]
+![Android Studio](https://img.shields.io/badge/Android_Studio-Expert-3DDC84?style=flat&logo=android-studio)
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat&logo=firebase)
 
 ---
 
